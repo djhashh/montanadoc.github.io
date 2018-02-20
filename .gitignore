@@ -1,0 +1,11 @@
+#
+# Files and folders to exclude from versioning
+#
+# Author : Ryan Johns
+
+# Exclude Visio document lock files.
+**/*.~vsdx
+
+# Exclude Visio document
+**/*.vsdx
+
