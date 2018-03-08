@@ -9,3 +9,5 @@
 # Exclude Visio document
 **/*.vsdx
 
+# Exclude excel documents.
+**/*.xlsx
